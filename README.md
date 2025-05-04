@@ -2,7 +2,6 @@
 
 # 💻 jatin@dev:~$ whoami
 
-
 ---
 
 ## 🧠 man jatin-srivastava
@@ -62,4 +61,3 @@ Platform	Link
 💼 LinkedIn	in/jatin-srivastava-57a434256
 🧑‍💻 GitHub	JatinSri1909
 
-<!-- 🖼️ Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=Keep+Hacking...;Keep+Building...;Stay+Curious+%F0%9F%8C%8D" alt="Typing SVG" /> </p> <!-- 🧠 GitHub Stats (optional - uncomment to use) --> <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JatinSri1909&show_icons=true&theme=tokyonight" alt="Jatin's GitHub Stats" /> </p> -->
